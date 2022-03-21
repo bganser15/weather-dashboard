@@ -58,6 +58,6 @@ var getWeather = function (latitude, longitude, city) {
     });
 };
 
-var getSearchHistory = function (event) {};
+var getSearchHistory = function () {};
 
 getLatLon();
